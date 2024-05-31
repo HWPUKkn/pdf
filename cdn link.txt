@@ -1,1 +1,2 @@
 https://cdnjs.com/libraries/pdf.js
+https://github.com/mozilla/pdf.js/tree/master/examples/mobile-viewer
